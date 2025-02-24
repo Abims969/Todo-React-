@@ -1,0 +1,13 @@
+.button {
+    background-color: rgb(69, 4, 67);
+}
+
+.addinput {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #c1bfbf;
+    border-radius: 4px;
+    background-color: #dfd5d5;
+    color: rgb(69, 4, 67);; 
+}
