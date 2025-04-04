@@ -11,3 +11,30 @@ body {
     padding: 20px;
     text-align:center;
 }
+.todoform {
+    /* display: flex;
+    justify-content: center; */
+    margin-top: 20px;
+    width:100%;
+}
+.todoinput {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #c1bfbf;
+    border-radius: 4px;
+    background-color: #dfd5d5;
+    color: rgb(69, 4, 67);
+    text-align:center;
+}
+.todobutton {
+    background-color: rgb(69, 4, 67);
+    color: white;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 0.9em;
+}
