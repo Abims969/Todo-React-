@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-    background-color: royalblue;
+    background-color: rgba(79, 117, 230, 0.687);
     height: 50px;
     font-size: 2em;
     color:white;
@@ -28,7 +28,7 @@ body {
     text-align:center;
 }
 .todobutton {
-    background-color: rgb(69, 4, 67);
+    background-color: rgb(109, 7, 17);
     color: white;
     padding: 10px;
     margin: 10px 0;
